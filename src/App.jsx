@@ -1986,9 +1986,19 @@ const courses = [
     "category": "2025",
     "specialty": "",
     "teachers": "4 Professores",
-    "driveLink": "https://drive.google.com/drive/folders/1fvmXJ26JgIURuZDvY7AGtsuBk2qaLW0t?usp=drive_link",
+    "driveLink": "https://github.com/medicinajvs/entrar/blob/main/src/App.jsx",
     "image": "Imagens/neuropost-logo.jpg",
-    "url": ""
+    "url": "https://github.com/medicinajvs/entrar/blob/main/src/App.jsx"
+  },
+  {
+    "id": 21,
+    "title": "Fisiologia",
+    "category": "2025",
+    "specialty": "",
+    "teachers": "4 Professores",
+    "driveLink": "https://github.com/medicinajvs/entrar/blob/main/src/App.jsx",
+    "image": "Imagens/logo-anatomia-lesoes-esportivas.png",
+    "url": "https://github.com/medicinajvs/entrar/blob/main/src/App.jsx"
   }
 ];
 

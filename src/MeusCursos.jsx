@@ -351,6 +351,22 @@ const MOCK_COURSES = [
     "access": "granted",
     "driveUrl": "https://devjvs.github.io/MedicinaJVS/Neuropost/selecaoCurso.html",
     "imageUrl": "https://i.scdn.co/image/ab67656300005f1f3be8ff55415861f93209dc5a"
+  },
+  {
+    "id": "course_21",
+    "title": "Anatomia de Lesões Esportivas",
+    "year": "2024",
+    "provider": "Drive",
+    "professorsCount": 4,
+    "duration": "12h",
+    "rating": 4.5,
+    "students": 1430,
+    "progress": 0.25,
+    "level": "Avançado",
+    "tags": [],
+    "access": "granted",
+    "driveUrl": "https://devjvs.github.io/MedicinaJVS/Neuropost/selecaoCurso.html",
+    "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/logo-anatomia-lesoes-esportivas.png"
   }
 ];
 
