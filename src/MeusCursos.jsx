@@ -365,7 +365,7 @@ const MOCK_COURSES = [
     "level": "Avançado",
     "tags": [],
     "access": "granted",
-    "driveUrl": "https://devjvs.github.io/MedicinaJVS/Neuropost/selecaoCurso.html",
+    "driveUrl": "https://devjvs.github.io/MedicinaJVS/Anatomia%20de%20Lesões%20Esportivas/index.html",
     "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/logo-anatomia-lesoes-esportivas.png"
   }
 ];
