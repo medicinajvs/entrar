@@ -1996,9 +1996,9 @@ const courses = [
     "category": "2025",
     "specialty": "",
     "teachers": "4 Professores",
-    "driveLink": "https://github.com/medicinajvs/entrar/blob/main/src/App.jsx",
+    "driveLink": "https://devjvs.github.io/MedicinaJVS/Anatomia%20de%20Lesões%20Esportivas/index.html",
     "image": "Imagens/logo-anatomia-lesoes-esportivas.png",
-    "url": "https://github.com/medicinajvs/entrar/blob/main/src/App.jsx"
+    "url": "https://devjvs.github.io/MedicinaJVS/Anatomia%20de%20Lesões%20Esportivas/index.html"
   }
 ];
 
