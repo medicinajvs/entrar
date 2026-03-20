@@ -367,6 +367,38 @@ const MOCK_COURSES = [
     "access": "granted",
     "driveUrl": "https://devjvs.github.io/MedicinaJVS/Anatomia%20de%20Lesões%20Esportivas/index.html",
     "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/logo-anatomia-lesoes-esportivas.png"
+  },
+  {
+    "id": "course_22",
+    "title": "Aprenda Nefro",
+    "year": "2026",
+    "provider": "Drive",
+    "professorsCount": 1,
+    "duration": "12h",
+    "rating": 4.5,
+    "students": 1430,
+    "progress": 0.25,
+    "level": "Avançado",
+    "tags": [],
+    "access": "granted",
+    "driveUrl": "https://devjvs.github.io/MedicinaJVS/Aprenda%20Nefro/index.html",
+    "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/logo-aprenda-nefro.jpg"
+  },
+  {
+    "id": "course_23",
+    "title": "NefroAtual",
+    "year": "2026",
+    "provider": "Drive",
+    "professorsCount": 1,
+    "duration": "12h",
+    "rating": 4.5,
+    "students": 1430,
+    "progress": 0.25,
+    "level": "Avançado",
+    "tags": [],
+    "access": "granted",
+    "driveUrl": "https://devjvs.github.io/MedicinaJVS/NefroAtual/index.html",
+    "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/logo-nefroatual.jpg"
   }
 ];
 
