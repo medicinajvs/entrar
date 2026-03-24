@@ -399,6 +399,22 @@ const MOCK_COURSES = [
     "access": "granted",
     "driveUrl": "https://devjvs.github.io/MedicinaJVS/NefroAtual/index.html",
     "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/logo-nefroatual.jpg"
+  },
+  {
+    "id": "course_24",
+    "title": "Neurologia na Emergência",
+    "year": "2026",
+    "provider": "Drive",
+    "professorsCount": 1,
+    "duration": "60h",
+    "rating": 4.5,
+    "students": 1430,
+    "progress": 0.25,
+    "level": "Avançado",
+    "tags": [],
+    "access": "granted",
+    "driveUrl": "https://devjvs.github.io/MedicinaJVS/Neurologia%20na%20Emerg%C3%AAncia/index.html",
+    "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/logo-neurologia-emergencia.png"
   }
 ];
 
