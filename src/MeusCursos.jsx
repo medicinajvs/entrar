@@ -431,6 +431,22 @@ const MOCK_COURSES = [
     "access": "granted",
     "driveUrl": "https://devjvs.github.io/MedicinaJVS/Medcel/index.html",
     "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/medcel-logo.png"
+  },
+  {
+    "id": "course_26",
+    "title": "MemoriMED",
+    "year": "2026",
+    "provider": "Drive",
+    "professorsCount": 14,
+    "duration": "60h",
+    "rating": 4.5,
+    "students": 1430,
+    "progress": 0.25,
+    "level": "Avançado",
+    "tags": [],
+    "access": "granted",
+    "driveUrl": "https://devjvs.github.io/MedicinaJVS/MemoriMED/index.html",
+    "imageUrl": "https://devjvs.github.io/MedicinaJVS/Imagens/logo-memorimed.png"
   }
 ];
 
